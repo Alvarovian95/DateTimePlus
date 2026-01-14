@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DateTimePlus.Tests/DateTimePlus.Tests.csproj" />
+  <Project Path="DateTimePlus/DateTimePlus.csproj" />
+</Solution>

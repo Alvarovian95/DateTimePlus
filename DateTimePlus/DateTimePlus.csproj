@@ -1,0 +1,9 @@
+﻿<PropertyGroup>
+  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  <PackageId>DateTimePlus</PackageId>
+  <Version>0.1.0</Version>
+  <Authors>Álvaro</Authors>
+  <Company>GitHub</Company>
+  <Description>Extensiones útiles para DateOnly, TimeOnly y DateTime en .NET 9</Description>
+  <PackageTags>datetime;extensions;net9;utility</PackageTags>
+</PropertyGroup>

@@ -1,0 +1,11 @@
+C:\projects\DateTimePlus\DateTimePlus\bin\Debug\net9.0\DateTimePlus.deps.json
+C:\projects\DateTimePlus\DateTimePlus\bin\Debug\net9.0\DateTimePlus.dll
+C:\projects\DateTimePlus\DateTimePlus\bin\Debug\net9.0\DateTimePlus.pdb
+C:\projects\DateTimePlus\DateTimePlus\obj\Debug\net9.0\DateTimePlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\DateTimePlus\DateTimePlus\obj\Debug\net9.0\DateTimePlus.AssemblyInfoInputs.cache
+C:\projects\DateTimePlus\DateTimePlus\obj\Debug\net9.0\DateTimePlus.AssemblyInfo.cs
+C:\projects\DateTimePlus\DateTimePlus\obj\Debug\net9.0\DateTimePlus.csproj.CoreCompileInputs.cache
+C:\projects\DateTimePlus\DateTimePlus\obj\Debug\net9.0\DateTimePlus.dll
+C:\projects\DateTimePlus\DateTimePlus\obj\Debug\net9.0\refint\DateTimePlus.dll
+C:\projects\DateTimePlus\DateTimePlus\obj\Debug\net9.0\DateTimePlus.pdb
+C:\projects\DateTimePlus\DateTimePlus\obj\Debug\net9.0\ref\DateTimePlus.dll
