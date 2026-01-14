@@ -2,21 +2,30 @@
 
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
-
-    <!-- Metadata para NuGet -->
     <PackageId>DateTimePlus</PackageId>
-    <Version>0.4.0</Version>
-    <Authors>Álvaro</Authors>
+    <Version>0.4.1</Version>
+    <Authors>ÁlvaroVian95</Authors>
     <Company>GitHub</Company>
     <Description>Extensions for DateOnly, TimeOnly and DateTime in .NET 9. Includes business day calculations, date ranges and useful date/time utilities.</Description>
     <PackageTags>datetime;dateonly;timeonly;daterange;extensions;net9</PackageTags>
-    <PackageLicenseExpression>MIT</PackageLicenseExpression>   <!-- Aquí defines la licencia -->
-    <PackageReadmeFile>README.md</PackageReadmeFile>        <!-- Esto indica que incluya el README -->
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageProjectUrl>https://github.com/Alvarovian95/DateTimePlus</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Alvarovian95/DateTimePlus</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryBranch>main</RepositoryBranch>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <LangVersion>latest</LangVersion>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <EmbedUntrackedSources>true</EmbedUntrackedSources>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <IsPackable>true</IsPackable>
+    <ContinuousIntegrationBuild>true</ContinuousIntegrationBuild>
   </PropertyGroup>
 
   <ItemGroup>
-    <!-- Incluir archivos en el paquete -->
     <None Include="README.md" Pack="true" PackagePath="" />
     <None Include="LICENSE.txt" Pack="true" PackagePath="" />
   </ItemGroup>
