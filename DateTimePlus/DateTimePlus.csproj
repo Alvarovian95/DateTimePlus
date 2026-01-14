@@ -1,9 +1,18 @@
-﻿<PropertyGroup>
-  <PackageId>DateTimePlus</PackageId>
-  <Version>0.1.0</Version>
-  <Authors>Álvaro</Authors>
-  <Company>GitHub</Company>
-  <Description>Extensiones útiles para DateOnly, TimeOnly y DateTime en .NET 9. Incluye cálculo de días hábiles, rangos de fechas y utilidades de fechas y horas.</Description>
-  <PackageTags>datetime;extensions;net9;utility</PackageTags>
-  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-</PropertyGroup>
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <PackageId>DateTimePlus</PackageId>
+    <Version>0.3.0</Version>
+    <Authors>Álvaro</Authors>
+    <Company>GitHub</Company>
+    <Description>Extensiones útiles para DateOnly, TimeOnly y DateTime en .NET 9. Incluye cálculo de días hábiles, rangos de fechas y utilidades de fechas y horas.</Description>
+    <PackageTags>datetime;dateonly;timeonly;daterange;extensions;net9</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+<ItemGroup>
+  <None Include="README.md" Pack="true" PackagePath="" />
+  <None Include="LICENSE.txt" Pack="true" PackagePath="" />
+</ItemGroup>
+	
+</Project>
