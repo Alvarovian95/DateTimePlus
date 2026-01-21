@@ -3,11 +3,11 @@
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
     <PackageId>DateTimePlus</PackageId>
-    <Version>0.4.1</Version>
+    <Version>1.0.0</Version>
     <Authors>ÁlvaroVian95</Authors>
     <Company>GitHub</Company>
     <Description>Extensions for DateOnly, TimeOnly and DateTime in .NET 9. Includes business day calculations, date ranges and useful date/time utilities.</Description>
-    <PackageTags>datetime;dateonly;timeonly;daterange;extensions;net9</PackageTags>
+    <PackageTags>datetime;dateonly;timeonly;datetimeoffset;timezone;extensions;dotnet</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageProjectUrl>https://github.com/Alvarovian95/DateTimePlus</PackageProjectUrl>

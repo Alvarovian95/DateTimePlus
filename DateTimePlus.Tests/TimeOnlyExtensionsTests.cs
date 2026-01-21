@@ -1,6 +1,4 @@
-﻿using Xunit;
-using DateTimePlus.Extensions;
-using System;
+﻿using DateTimePlus.Extensions;
 
 namespace DateTimePlus.Tests
 {
