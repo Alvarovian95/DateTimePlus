@@ -34,4 +34,5 @@
 Install via NuGet:
 
 ```bash
-dotnet add package DateTimePlus --version 0.3.0
+dotnet add package DateTimePlus --version 1.0.0
+
